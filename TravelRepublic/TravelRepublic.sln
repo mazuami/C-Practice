@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TravelRepublic", "TravelRepublic\TravelRepublic.csproj", "{BB9ECF49-E04C-4D37-994A-B7818CBCD890}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlightCodingTest", "FlightBuilderLib\FlightCodingTest.csproj", "{8C29E433-52E1-4DF0-94F8-93662A44C66E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BB9ECF49-E04C-4D37-994A-B7818CBCD890}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB9ECF49-E04C-4D37-994A-B7818CBCD890}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB9ECF49-E04C-4D37-994A-B7818CBCD890}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB9ECF49-E04C-4D37-994A-B7818CBCD890}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C29E433-52E1-4DF0-94F8-93662A44C66E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C29E433-52E1-4DF0-94F8-93662A44C66E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C29E433-52E1-4DF0-94F8-93662A44C66E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C29E433-52E1-4DF0-94F8-93662A44C66E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {03177A62-6099-4EF7-83FE-96AEF36A9FB0}
+	EndGlobalSection
+EndGlobal

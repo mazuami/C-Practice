@@ -1,0 +1,8 @@
+C:\Users\Amit Mazumder\Desktop\Code\CSharpApps\SchoolBusTrackingApp\SchoolBusTrackingApp\SchoolBusRepositoryLayer\bin\Debug\SchoolBusRepositoryLayer.dll
+C:\Users\Amit Mazumder\Desktop\Code\CSharpApps\SchoolBusTrackingApp\SchoolBusTrackingApp\SchoolBusRepositoryLayer\bin\Debug\SchoolBusRepositoryLayer.pdb
+C:\Users\Amit Mazumder\Desktop\Code\CSharpApps\SchoolBusTrackingApp\SchoolBusTrackingApp\SchoolBusRepositoryLayer\bin\Debug\SchoolBusModels.dll
+C:\Users\Amit Mazumder\Desktop\Code\CSharpApps\SchoolBusTrackingApp\SchoolBusTrackingApp\SchoolBusRepositoryLayer\bin\Debug\SchoolBusModels.pdb
+C:\Users\Amit Mazumder\Desktop\Code\CSharpApps\SchoolBusTrackingApp\SchoolBusTrackingApp\SchoolBusRepositoryLayer\obj\Debug\SchoolBusRepositoryLayer.csprojResolveAssemblyReference.cache
+C:\Users\Amit Mazumder\Desktop\Code\CSharpApps\SchoolBusTrackingApp\SchoolBusTrackingApp\SchoolBusRepositoryLayer\obj\Debug\SchoolBusRepositoryLayer.csproj.CoreCompileInputs.cache
+C:\Users\Amit Mazumder\Desktop\Code\CSharpApps\SchoolBusTrackingApp\SchoolBusTrackingApp\SchoolBusRepositoryLayer\obj\Debug\SchoolBusRepositoryLayer.dll
+C:\Users\Amit Mazumder\Desktop\Code\CSharpApps\SchoolBusTrackingApp\SchoolBusTrackingApp\SchoolBusRepositoryLayer\obj\Debug\SchoolBusRepositoryLayer.pdb

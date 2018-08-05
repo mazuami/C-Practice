@@ -1,0 +1,6 @@
+C:\Users\Amit Mazumder\Desktop\Code\CSharpApps\SchoolBusTrackingApp\SchoolBusTrackingApp\SchoolBusModels\bin\Debug\SchoolBusModels.dll
+C:\Users\Amit Mazumder\Desktop\Code\CSharpApps\SchoolBusTrackingApp\SchoolBusTrackingApp\SchoolBusModels\bin\Debug\SchoolBusModels.pdb
+C:\Users\Amit Mazumder\Desktop\Code\CSharpApps\SchoolBusTrackingApp\SchoolBusTrackingApp\SchoolBusModels\obj\Debug\SchoolBusModels.csprojResolveAssemblyReference.cache
+C:\Users\Amit Mazumder\Desktop\Code\CSharpApps\SchoolBusTrackingApp\SchoolBusTrackingApp\SchoolBusModels\obj\Debug\SchoolBusModels.csproj.CoreCompileInputs.cache
+C:\Users\Amit Mazumder\Desktop\Code\CSharpApps\SchoolBusTrackingApp\SchoolBusTrackingApp\SchoolBusModels\obj\Debug\SchoolBusModels.dll
+C:\Users\Amit Mazumder\Desktop\Code\CSharpApps\SchoolBusTrackingApp\SchoolBusTrackingApp\SchoolBusModels\obj\Debug\SchoolBusModels.pdb

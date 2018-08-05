@@ -1,0 +1,6 @@
+C:\Users\Amit Mazumder\Desktop\Code\CSharpApps\TravelRepublic\FlightBuilderLib\bin\Debug\FlightBuilderLib.dll
+C:\Users\Amit Mazumder\Desktop\Code\CSharpApps\TravelRepublic\FlightBuilderLib\bin\Debug\FlightBuilderLib.pdb
+C:\Users\Amit Mazumder\Desktop\Code\CSharpApps\TravelRepublic\FlightBuilderLib\obj\Debug\FlightCodingTest.csprojResolveAssemblyReference.cache
+C:\Users\Amit Mazumder\Desktop\Code\CSharpApps\TravelRepublic\FlightBuilderLib\obj\Debug\FlightCodingTest.csproj.CoreCompileInputs.cache
+C:\Users\Amit Mazumder\Desktop\Code\CSharpApps\TravelRepublic\FlightBuilderLib\obj\Debug\FlightBuilderLib.dll
+C:\Users\Amit Mazumder\Desktop\Code\CSharpApps\TravelRepublic\FlightBuilderLib\obj\Debug\FlightBuilderLib.pdb
