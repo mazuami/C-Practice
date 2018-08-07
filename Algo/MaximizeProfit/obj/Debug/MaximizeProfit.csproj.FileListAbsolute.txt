@@ -1,0 +1,6 @@
+c:\users\amit mazumder\source\repos\ConsoleApp2\MaximizeProfit\bin\Debug\MaximizeProfit.dll
+c:\users\amit mazumder\source\repos\ConsoleApp2\MaximizeProfit\bin\Debug\MaximizeProfit.pdb
+c:\users\amit mazumder\source\repos\ConsoleApp2\MaximizeProfit\obj\Debug\MaximizeProfit.csprojResolveAssemblyReference.cache
+c:\users\amit mazumder\source\repos\ConsoleApp2\MaximizeProfit\obj\Debug\MaximizeProfit.csproj.CoreCompileInputs.cache
+c:\users\amit mazumder\source\repos\ConsoleApp2\MaximizeProfit\obj\Debug\MaximizeProfit.dll
+c:\users\amit mazumder\source\repos\ConsoleApp2\MaximizeProfit\obj\Debug\MaximizeProfit.pdb
